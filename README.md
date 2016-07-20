@@ -1,5 +1,5 @@
-# EjemploPilas
-## Ejecutar Sonido 
+﻿# Ejemplo de Pilas-Engine
+## Activar Sonido 
 ### Pasos 
 1.  En la pantalla principal de pilas-engine, ingresar a la opción config
 2.  Activar la opción Activar Audio
@@ -9,8 +9,8 @@ Si existe algún inconveniente, revisar los errores en la terminal, en mi caso, 
 
 ![alt text](https://github.com/reroes/EjemploPilas/blob/master/img001.png "Img")
 
+### Ejemplo - código python
 
-### Código Python 
 ```python
 import pilasengine
 
