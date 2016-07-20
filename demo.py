@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # vim:fenc=utf-8
 #
-# Copyright © 2016 René Elizalde - @reroes <reroes799[AT]utpl[DOT]edu.ec>
+# René Elizalde - @reroes <reroes799[AT]utpl[DOT]edu.ec>
 #
 # Distributed under terms of the GPLv3+ license.
 
