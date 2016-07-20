@@ -26,4 +26,6 @@ sonido3.reproducir()
 
 ```
 
+### Fuente
 
+[Documentación Pilas-Engine](http://pilas.readthedocs.io/en/latest/sonidos.html)
